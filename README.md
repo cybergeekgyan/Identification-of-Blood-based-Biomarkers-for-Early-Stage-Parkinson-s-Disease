@@ -26,3 +26,14 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6613
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse54536
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse72267
+
+
+## Bioinformatics Tools Used:
+
+- GEO2R, 
+
+- [StringDB](https://string-db.org) 
+
+- [PantherDB](http://geneontology.org)
+
+- [Researching Individual Genes](https://scholar.google.com) 
