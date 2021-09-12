@@ -28,6 +28,23 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse54536
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse72267
 
 
+
+## IMPORTANT NOTE
+
+- We will be using the Gene Expression Omnibus to access and analyze data.
+
+- The Gene Expression Omnibus can be accessed here: https://www.ncbi.nlm.nih.gov/geo/
+
+- If you were not able to understand, check out this excellent resource: https://biochem.slu.edu/bchm628/handouts/2013/GEO_Tutorial_2012.pdf
+
+- Finally, You must define the EXPERIMENTAL/DISEASE group FIRST and the CONTROL/WILD-TYPE group SECOND.
+
+- GEO2R also recently updated its user interface. Most features are the same except the colors are now blue and purple instead of red and blue. Also, it conveniently generates charts.
+
+**Thank you.**
+
+
+
 ## Bioinformatics Tools Used:
 
 - GEO2R, 
