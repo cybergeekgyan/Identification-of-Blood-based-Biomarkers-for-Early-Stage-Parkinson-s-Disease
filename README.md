@@ -45,6 +45,26 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse72267
 
 
 
+## What is the Gene Expression Omnibus?
+
+- The Gene Expression Omnibus, or GEO, is an online website where scientists upload data from their experiments. 
+- You can find gene expression, microRNA expression, and many other types of DNA/RNA data. 
+- The data is all freely accessible.
+
+## Finding a Dataset
+
+1. Number of samples (25+ is good, too much is not good, such as 5000. It takes too long to run and GEO2R will time out)
+
+2. Organism
+
+3. Type of "thing" analyzed: tissue, blood, etc.
+
+4. Treatment? Make sure the changed variable between control and experimental is what you want. If you're finding diagnostic biomarkers for lung cancer, you want a dataset that's just control samples and lung cancer samples. You don't want control samples and lung cancer samples treated with a drug, for example.
+
+5. ANALYZE with GEO2R button! Very important. The dataset must have this!
+
+
+
 ## Bioinformatics Tools Used:
 
 - GEO2R, 
